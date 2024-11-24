@@ -1,6 +1,7 @@
 # Ignoruoti virtualią aplinką
-.venv/
-venv/
+.venv/Lib/
+.venv/Scripts/
+.venv/share/
 
 # Ignoruoti IDE konfigūracijas
 .idea/
