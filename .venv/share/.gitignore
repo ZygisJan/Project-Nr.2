@@ -1,6 +1,0 @@
-# Ignoruoti virtualią aplinką
-venv/
-Lib/
-Scripts/
-*.pyc
-__pycache__/

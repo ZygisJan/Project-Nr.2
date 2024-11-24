@@ -1,0 +1,13 @@
+# Ignoruoti virtualią aplinką
+.venv/
+venv/
+
+# Ignoruoti IDE konfigūracijas
+.idea/
+
+# Kiti laikini failai ar katalogai
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.DS_Store
